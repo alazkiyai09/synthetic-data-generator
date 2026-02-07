@@ -125,6 +125,7 @@ This will:
 2. **No Real Data**: All generated data is synthetic
 3. **Clear Indicators**: Generated documents should be clearly identifiable as synthetic
 4. **Compliance**: Ensure usage complies with local laws and regulations
+5. **Generated Samples Not Included**: Generated samples not included in repository
 
 ### Responsible Use
 
